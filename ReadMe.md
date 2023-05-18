@@ -1,5 +1,1 @@
-此文档为本人第一次学习C++基础，随C++ Primer书籍和Bilibili黑马视频学习所编写。
-
-其中第1到3部分，变量、语句、函数均为随书学习所写，大部分文档在Windows系统的Dell电脑上。后面的4到6部分，类和对象、模板类、STL容器均为随黑马视频在Ubuntu系统的Lenovo电脑上写成，比较详细系统，可作为后续进一步学习参考。
-
-文档总体完成于2022年9月上旬，整理修改并上传至GitHub于2022年11月15日。
+This document is my first time to learn C++ foundation, along with C++ Primer books and Bilibili dark horse video learning prepared. Part 1 to 3, variables, statements, functions are written with the book, most of the documents on Windows system Dell computer. In the following 4 to 6 parts, classes and objects, template classes, and STL containers are all written on Lenovo computer of Ubuntu system along with the Dark Horse video. The detailed system can be used as reference for further study. The overall document was completed in early September 2022, sorted out, modified and uploaded to GitHub on November 15, 2022.
